@@ -1,0 +1,11 @@
+.progress-passed {
+  background-color: #00CEFF !important;
+}
+.progress-bar-container {
+  display: flex;
+  justify-content: space-between;
+}
+.progress-bar {
+  flex: 1;
+  margin: 10px;
+}
